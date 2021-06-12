@@ -1,2 +1,2 @@
 # Restaurant-Noodlette
-Restaurant Website - Food Delivery [My First]
+Only the Frontend has been created for this Restaurant - Food Delivery [My First Website]
