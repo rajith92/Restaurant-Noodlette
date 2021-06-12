@@ -1,0 +1,36 @@
+@media(min-width: 768px){
+.discount-input{
+    width:50%;
+}
+}
+@media(max-width: 768px){
+    .image{
+        width:70%;
+    }
+    }
+
+.logo{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+.nav-color{
+    background-color: black;
+}
+
+.menu-image{
+    height:18rem;
+}
+
+.card-body-size{
+    font-size: 12px;
+}
+
+body::before{
+    display: block;
+    content: "";
+    height: 60px;
+}
+
+
+
